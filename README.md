@@ -3,6 +3,10 @@ Stack Machine Shell Programming
 
 Stack Machine Shell: the Most Overlooked Secret Weapon in Computer Programming
 
+Stack machine is one of the most fundamental mechanisms in computer systems, which can be found in places from microprocessors to programming language interpreters. 
+
+We demonstrated that a stack machine shell (SMASH) can be implemented in high level programming languages like JavaScript and PHP with as few as around 50 lines of code, and by extension, in other equivalent high level programmming languaes. SMASH operates similarly to a Forth program, using Reverse Polish Notation. It uses indirect threaded code to access all functions within the host program. Consequently, SMASH enable a program to be modify during live execution, with complete functionalities of a debugger.
+
 Programming Languages are like religions and ideologies, garnering enthusiastic followers while fragmenting the communities without anyone being concerned at the lost of productivity that has been accumulated over the decades. 
 
 The fragmentation of Programming communities has not been in the limelight as the absolute base of programmers has been growing literally exponentially during the past few decades, only to be met with declining profit forecast by tech giants in recent quarters. 
