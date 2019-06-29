@@ -1,7 +1,7 @@
 # SMASH
 Stack Machine Shell Programming
 
-Stack Machine Shell: the most overlooked secret weapon in computer programming
+Stack Machine Shell: the Most Overlooked Secret Weapon in Computer Programming
 
 Programming Languages are like religions and ideologies, garnering enthusiastic followers while fragmenting the communities without anyone being concerned at the lost of productivity that has been accumulated over the decades. 
 
