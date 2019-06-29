@@ -16,9 +16,9 @@ Formalized as inverse shunting yard algorithm
 
 Show examples:
 
-Ajax
+[ Ajax ](http://5gl.epizy.com/nsm/fgl.html?i=3)
 
-Distributive law
+[ Distributive law ](http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html)
 
 Kotlin Android
 
