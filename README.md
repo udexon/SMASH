@@ -1,12 +1,17 @@
-# SMASH
+# SMASH FRPN 
+
+### --- *"Smashing Frying Pan"*
+
+## Stack Machine Shell (SMASH) using Forth like Reverse Polish Notation
 
 ## Stack Machine Shell Programming
 
 ### Stack Machine Shell: the Most Overlooked Secret Weapon in Computer Programming
 
-:: readers want to know the benefits (or purpose) by reading this article, not some abstract ideas that they cannot use, or need time to understand
-
 > *Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.*
+
+We have to be slightly creative with acronyms as the concepts discussed in this article are not entirely new.
+In fact, every word in the name *"Stack Machine Shell (SMASH) using Forth like Reverse Polish Notation"* are well established and some of the oldest in the art. 
 
 Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
