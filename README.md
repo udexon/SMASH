@@ -8,6 +8,11 @@
 
 Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
+Shell, perhaps the first and the most common user interface any programmer would come across. Stack, perhaps the one of the most common and the first concepts any programmer would learn and never use it consciously again. What if you are presented with a shell whose fundamental mechanism is built upon a stack machine?
+
+[ SMASH for Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 ): Describe ....
+
+
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
 
 Could it be as simple as as "their paths did not cross", or was there some other more important reasons?
