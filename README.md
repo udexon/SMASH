@@ -84,9 +84,7 @@ http://5gl.epizy.com/gltf_2019/g_rpn.html
 This web page is taken from a three.js tutorial. Modification has been made such that, you follow the instructions below, one of the selected object will start moving:
 
 - Use mouse left (primary) button to select any two objects. 
-
 - Open JavaScript Console. 
-
 - Copy and paste the following commands:
 
 ```
@@ -95,6 +93,13 @@ ga[0].p.v=new THREE.Vector3(1,0,0)
 ga[1].p.v=new THREE.Vector3(0,0,0)
 requestAnimationFrame( g_anim );
 ```
+
+I am sure this is a typical game programming scenario.
+
+What is not typical is the following: instead of "hard coding" the criteria for the objects to "bounce off" the "wall", we wish to *create a computer algebra system which can solve simultaneous linear equations governing the motion of the objects.*
+
+
+
 ```
 S.push('a b + c d + *'); 
 F("space: explode: hgm: : top_edges t t2sn: cx: over: cx: 1 - \
