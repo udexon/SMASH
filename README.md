@@ -18,15 +18,18 @@ Amongst the hundreds of Programming Languages that have been developed over the 
 
 This would remain a mere curiosity in the relatively short history of computer programming had it not been formalized theoretically and found more useful applications. 
 
+Formalized as inverse shunting yard algorithm
+
 Dijkstra's 1961 paper describing the inverse shunting yard algortihm, as part of the ALGOL project, can be seen as the common ancestor of all programming language design. The inverse process, transforming Reverse Polish Notation (RPN) expressions into a host programming language, can be called the "inverse shunting yard algorithm" (ISYA). We believe ours is a novel attempt to describe ISYA formally, although implementations on individual programming language have existed independently, but most, if not all, have not been developed beyond the point of demonstrating how Forth can be implemented in a host programming language.
 
-Formalized as inverse shunting yard algorithm
+We believe that the Forth like Reverse Polish Notation employed  in stack machine shell (SMASH) has the potential to become a "universal script" which can be learned by programmers and non-programmers alike, including mathematicians and students studying mathematics. 
+
 
 Show examples:
 
-[ Ajax ](http://5gl.epizy.com/nsm/fgl.html?i=3)
+[ Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 )
 
-[ Distributive law ](http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html)
+[ Distributive law ]( http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html )
 
 Kotlin Android
 
