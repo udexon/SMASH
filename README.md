@@ -39,6 +39,11 @@ And, not only ALL open source programs like LibreOffice can have a stack machine
 
 Would that the best thing since the invention of the Internet itself?
 
+Next, imagine the stack machine shell (SMASH) is not only available in LibreOffice, but any Facebook or Google "wannabe" open source clones. 
+SMASH can be used as the interface on the web application or mobile application, to modify fron end and back end functionalities, on the fly, without having to download the complete source code and set up the repo locally.
+
+How long will it take for free software programmers to produce worthy clones of MAGA/F (Microsoft, Amazon, Goolge, Apple, Facebook) with SMASH is available everywhere?
+
 :: start new sentence on new line. easy to edit.
 
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
