@@ -27,9 +27,9 @@ We believe that the Forth like Reverse Polish Notation employed  in stack machin
 
 Show examples:
 
-[ Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 )
+[ SMASH for Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 ): Describe ....
 
-[ Distributive law ]( http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html )
+[ SMASH CASPAROV: Distributive law ]( http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html )
 
 Kotlin Android
 
