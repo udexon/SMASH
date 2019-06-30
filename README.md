@@ -20,8 +20,22 @@ Stack machine is one of the most fundamental mechanisms in computer systems, whi
 
 We demonstrated that a stack machine shell (SMASH) can be implemented in high level programming languages like JavaScript and PHP with as few as around 50 lines of code, and by extension, in other equivalent high level programmming languages. SMASH operates similarly to a Forth program, using Reverse Polish Notation. It uses indirect threaded code to access all functions within the host program. Consequently, SMASH enables a host program to be modified during live execution, with complete functionalities of a debugger.
 
+So what does that mean to an "ordinary" reader who might be a programmer like you? 
+
+Can you imagine having access to the source code of Google search engine or Facebook?
+
+Theoretically, any and all source code that is worth learning, excluding perhaps Microsoft Office, are published on github.com or other open source repositories. 
+As such, "having access to the source code" is not much a big deal.
+
+However, having a GitHub repo set up and run locally, then attempting to modify it to produce useful result is another matter altogether. 
+e.g. One might have a good idea on how to improve LibreOffice. 
+However, the effort to set up and develop LibreOffice locally might put off 999 out of 1000 interested programmers.
+
+Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.
 
 
+
+:: start new sentence on new line. easy to edit.
 
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
 
