@@ -98,7 +98,7 @@ I am sure this is a typical game programming scenario.
 
 What is not typical is the following: instead of "hard coding" the criteria for the objects to "bounce off" the "wall", we wish to *create a computer algebra system which can solve simultaneous linear equations governing the motion of the objects.*
 
-
+At this point, some readers might dismiss this as overly ambitious. However, as there has been JavaScript computer algebra system like [ Algebrite ](http://algebrite.org/), porting it to Godot should not be rocket science.
 
 ```
 S.push('a b + c d + *'); 
