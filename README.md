@@ -77,8 +77,16 @@ Programmers who are API users will only need to understand SMASH/FRPN in order t
 Our proprosal for SMASH/FRPN does not require universal approval from all API developers.
 A SMASH/FRPN interface to any API will typically take a week for a programmer working on part time to complete, as demonstrated with our JavaScript and PHP SMASH demo.
 
+http://localhost/gltf_2019/g_rpn.html
 
+Use mouse left (primary) button to select any two objects. Open JavaScript Console. Copy and paste the following commands:
 
+```
+ga_init(ga)
+ga[0].p.v=new THREE.Vector3(1,0,0)
+ga[1].p.v=new THREE.Vector3(0,0,0)
+requestAnimationFrame( g_anim );
+```
 
 :: start new sentence on new line. easy to edit.
 
