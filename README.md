@@ -8,10 +8,10 @@
 
 ### Stack Machine Shell: the Most Overlooked Secret Weapon in Computer Programming
 
-> *Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.*
+> *Now imagine if, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.*
 
 We have to be slightly creative with acronyms as the concepts discussed in this article are not entirely new.
-In fact, every word in the name *"Stack Machine Shell (SMASH) using Forth like Reverse Polish Notation"* are well established and some of the oldest in the art. 
+In fact, every word in the name *"Stack Machine Shell (SMASH) using Forth like Reverse Polish Notation"* is well established and some of the oldest in the art. 
 
 
 Shell, perhaps the first and the most common user interface any programmer would come across. 
@@ -30,16 +30,16 @@ So what does that mean to an "ordinary" reader who might be a programmer like yo
 
 Can you imagine having access to the source code of Google search engine or Facebook?
 
-Theoretically, any and all source code that is worth learning, excluding perhaps Microsoft Office, are published on github.com or other open source repositories. 
+Practically any and all source code that is worth learning, *excluding perhaps Microsoft Office*, have already been published on github.com or other open source repositories. 
 As such, "having access to the source code" is not much a big deal.
 
 However, having a GitHub repo set up and run locally, then attempting to modify it to produce useful result is another matter altogether. 
 e.g. One might have a good idea on how to improve LibreOffice. 
 However, the effort to set up and develop LibreOffice locally might put off 999 out of 1000 interested programmers.
 
-Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.
+Now imagine if, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.
 
-And, not only ALL open source programs like LibreOffice can have a stack machine shell (SMASH) which has the full functionatlities of GDB, the programming language that can be used to modify the host program is a Forth like Reverse Polish Notation (fRPN), a programming language whose difficulties to learn are no more than a reverse polish calculator, or a spreadsheet formula. 
+And, not only ALL open source programs like LibreOffice can have a stack machine shell (SMASH) which has the full functionatlities of GDB, the programming language that can be used to modify the host program is a Forth like Reverse Polish Notation (FRPN), a programming language whose difficulties to learn are no more than a reverse polish calculator, or a spreadsheet formula. 
 
 Would that the best thing since the invention of the Internet itself?
 
@@ -49,8 +49,6 @@ SMASH can be used as the interface on the web application or mobile application,
 How long will it take for free software programmers to produce worthy clones of MAGA/F (Microsoft, Amazon, Goolge, Apple, Facebook) with SMASH if it is available "everywhere"?
 
 Fastest way for Godot, or any other Programming Language,  to develop computer algebra system is CASPAROV?
-
-Make this as main selling point in this article. 
 
 Let us look at some issues surrounding Godot game development to illustrate the benefits of SMASH.
 
@@ -168,7 +166,7 @@ Show examples:
 
 [ SMASH CASPAROV: Distributive law ]( http://5gl.epizy.com/var/www/html/gltf_2019/g_rpn.html )
 
-Kotlin Android
+[ Kotlin Android ]( https://github.com/udexon/android_kotlin_rpn )
 
 Python?
 
