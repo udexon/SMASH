@@ -87,6 +87,32 @@ ga[0].p.v=new THREE.Vector3(1,0,0)
 ga[1].p.v=new THREE.Vector3(0,0,0)
 requestAnimationFrame( g_anim );
 ```
+```
+S.push('a b + c d + *'); 
+F("space: explode: hgm: : top_edges t t2sn: cx: over: cx: 1 - \
+i: e ix: ; ")
+F(": left_terms dup: 1 ix: 5 pick: swap: i: e i: dup: 0 i: \
+subt: over: 1 i: subt: ;");
+F(" top_edges left_terms 3 pick: 0 i: subt: \\* 1 pick: 4 pick: \
+\\* \\+ 7 mss:")
+
+a d c + \* d c + b \* \+
+
+
+S.push('a b + c *'); 
+F("space: explode: hgm: : top_edges t t2sn: cx: over: cx: 1 - \
+i: e ix: ; ")
+F(": left_terms dup: 1 ix: 5 pick: swap: i: e i: dup: 0 i: \
+subt: over: 1 i: subt: ;");
+F(" top_edges left_terms 3 pick: 0 i: subt: \\* 1 pick: 4 pick: \
+\\* \\+ 7 mss:")
+
+a c \* c b \* \+
+```
+
+
+
+
 
 :: start new sentence on new line. easy to edit.
 
