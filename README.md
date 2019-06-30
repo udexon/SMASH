@@ -51,6 +51,17 @@ Make this as main selling point in this article.
 Let us look at some issues surrounding Godot game development to illustrate the benefits of SMASH.
 
 As programmer population and investment in open source projects grow, we witness many interesting breakthroughs such as the Godot game engine. 
+Nevertheless, these projects invariably inherit many chronic ills in computer programming, which of course cannot be blamed on the core developers.
+
+One of the primary tolerated ills would be the choice of programming language. From [ Godot's own web page ](https://docs.godotengine.org/en/3.1/getting_started/scripting/gdscript/gdscript_basics.html):
+
+> In the early days, the engine used the Lua scripting language. Lua is fast, but creating bindings to an object oriented system (by using fallbacks) was complex and slow and took an enormous amount of code. After some experiments with Python, it also proved difficult to embed.
+
+> The last third party scripting language that was used for shipped games was Squirrel, but it was dropped as well. At that point, it became evident that a custom scripting language could more optimally make use of Godot’s particular architecture.
+
+Similar issues occur in other projects such as node.js, Angular etc.
+
+In summary, every platform seems to have its own programming language. This seems to be a problem as entrenched as the biblical tower of Babylon (Babel). SMASH fRPN or ISYA as described in this article can be the be all and end all solution to the problem of the (programming) tower of Babylon. 
 
 :: start new sentence on new line. easy to edit.
 
