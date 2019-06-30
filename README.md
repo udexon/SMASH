@@ -61,7 +61,10 @@ One of the primary tolerated ills would be the choice of programming language. F
 
 Similar issues occur in other projects such as node.js, Angular etc.
 
-In summary, every platform seems to have its own programming language. This seems to be a problem as entrenched as the biblical tower of Babylon (Babel). SMASH fRPN or ISYA as described in this article can be the be all and end all solution to the problem of the (programming) tower of Babylon. 
+In summary, every platform seems to have its own programming language. This seems to be a problem as entrenched as the biblical tower of Babylon (Babel). 
+SMASH FRPN or ISYA as described in this article can be the be all and end all solution to the problem of the (programming) tower of Babylon. 
+
+f.RPN F.RPN FRPN fRPN
 
 :: start new sentence on new line. easy to edit.
 
