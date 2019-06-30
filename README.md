@@ -44,6 +44,14 @@ SMASH can be used as the interface on the web application or mobile application,
 
 How long will it take for free software programmers to produce worthy clones of MAGA/F (Microsoft, Amazon, Goolge, Apple, Facebook) with SMASH if it is available "everywhere"?
 
+Fastest way for Godot, or any other Programming Language,  to develop computer algebra system is CASPAROV?
+
+Make this as main selling point in this article. 
+
+Let us look at some issues surrounding Godot game development to illustrate the benefits of SMASH.
+
+As programmer population and investment in open source projects grow, we witness many interesting breakthroughs such as the Godot game engine. 
+
 :: start new sentence on new line. easy to edit.
 
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
