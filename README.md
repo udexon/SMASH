@@ -6,6 +6,8 @@
 
 :: readers want to know the benefits (or purpose) by reading this article, not some abstract ideas that they cannot use, or need time to understand
 
+> *Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.*
+
 Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
 Shell, perhaps the first and the most common user interface any programmer would come across. 
@@ -33,7 +35,9 @@ However, the effort to set up and develop LibreOffice locally might put off 999 
 
 Now imagine, LibreOffice has a "debug shell", with complete features of GDB, that can be brought up like a Browser JavaScript Console.
 
+And, not only ALL open source programs like LibreOffice can have a stack machine shell (SMASH) which has the full functionatlities of GDB, the programming language that can be used to modify the host program is a Forth like Reverse Polish Notation (fRPN), a programming language whose difficulties to learn are no more than a reverse polish calculator, or a spreadsheet formula. 
 
+Would that the best thing since the invention of the Internet itself?
 
 :: start new sentence on new line. easy to edit.
 
