@@ -13,17 +13,16 @@
 We have to be slightly creative with acronyms as the concepts discussed in this article are not entirely new.
 In fact, every word in the name *"Stack Machine Shell (SMASH) using Forth like Reverse Polish Notation"* are well established and some of the oldest in the art. 
 
-Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
 Shell, perhaps the first and the most common user interface any programmer would come across. 
 
-Stack, perhaps the one of the most common and the first concepts any programmer would learn and never use it consciously again. 
+Stack, perhaps one of the most common and the first concepts any programmer would learn and never use it consciously again. 
 
 What if you are presented with a shell whose fundamental mechanism is built upon a stack machine?
 
 [ SMASH for Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 ): Describe ....
 
-Stack machine is one of the most fundamental mechanisms in computer systems, which can be found in places from microprocessors to programming language interpreters. 
+Stack machine is one of the most fundamental mechanisms in computer systems, which can be found in places from microprocessors to modern programming language interpreters. 
 
 We demonstrated that a stack machine shell (SMASH) can be implemented in high level programming languages like JavaScript and PHP with as few as around 50 lines of code, and by extension, in other equivalent high level programmming languages. SMASH operates similarly to a Forth program, using Reverse Polish Notation. It uses indirect threaded code to access all functions within the host program. Consequently, SMASH enables a host program to be modified during live execution, with complete functionalities of a debugger.
 
@@ -175,6 +174,7 @@ Python?
 
 etc?
 
+Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
 
 
