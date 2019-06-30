@@ -66,6 +66,9 @@ SMASH FRPN or ISYA as described in this article can be the be all and end all so
 
 f.RPN F.RPN FRPN fRPN
 
+> Just an unrelated joke to make readers remember the acronym FRPN: Bill Gate once wrote a paper on the pancake sorting algorithm. 
+FRPN might sound like a frying pan, used to fry and flip (sort) the stack (!!) of pancakes
+
 :: start new sentence on new line. easy to edit.
 
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
