@@ -8,9 +8,19 @@
 
 Shell: developed by Unix in 1970s, for "large" computers. Forth was ported to "small" computers since 1968? dc ?
 
-Shell, perhaps the first and the most common user interface any programmer would come across. Stack, perhaps the one of the most common and the first concepts any programmer would learn and never use it consciously again. What if you are presented with a shell whose fundamental mechanism is built upon a stack machine?
+Shell, perhaps the first and the most common user interface any programmer would come across. 
+
+Stack, perhaps the one of the most common and the first concepts any programmer would learn and never use it consciously again. 
+
+What if you are presented with a shell whose fundamental mechanism is built upon a stack machine?
 
 [ SMASH for Ajax ]( http://5gl.epizy.com/nsm/fgl.html?i=3 ): Describe ....
+
+Stack machine is one of the most fundamental mechanisms in computer systems, which can be found in places from microprocessors to programming language interpreters. 
+
+We demonstrated that a stack machine shell (SMASH) can be implemented in high level programming languages like JavaScript and PHP with as few as around 50 lines of code, and by extension, in other equivalent high level programmming languages. SMASH operates similarly to a Forth program, using Reverse Polish Notation. It uses indirect threaded code to access all functions within the host program. Consequently, SMASH enables a host program to be modified during live execution, with complete functionalities of a debugger.
+
+
 
 
 While writing this article, we attempt to reconcile a historical mystery concerning Unix shell and Forth (stack machine): Why has the stack mechanism used in Unix dc (desktop calculator) not succeeded in the various shells hence developed?
@@ -19,9 +29,6 @@ Could it be as simple as as "their paths did not cross", or was there some other
 
 We may leave this mystery to readers with more resources or historical insights. A brief mention of it should present the readers with an interesting overview of issues concerned.
 
-Stack machine is one of the most fundamental mechanisms in computer systems, which can be found in places from microprocessors to programming language interpreters. 
-
-We demonstrated that a stack machine shell (SMASH) can be implemented in high level programming languages like JavaScript and PHP with as few as around 50 lines of code, and by extension, in other equivalent high level programmming languages. SMASH operates similarly to a Forth program, using Reverse Polish Notation. It uses indirect threaded code to access all functions within the host program. Consequently, SMASH enables a host program to be modified during live execution, with complete functionalities of a debugger.
 
 Programming Languages are like religions and ideologies, garnering enthusiastic followers while fragmenting the communities without anyone being concerned at the lost of productivity that has been accumulated over the decades. 
 
