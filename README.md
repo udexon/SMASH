@@ -16,8 +16,9 @@ Using a Forth like Reverse Polish Notation syntax, SMASH can be deployed as a "u
 
 Amongst the hundreds of Programming Languages that have been developed over the decades, Forth stood out as being frequently implemented as a "shell script" within a host Programming Language. Google "Forth" together with any other host programming language, you would find a GitHub project that implements Forth within the host programming language, from Java, JavaScript to PHP and Python. The list goes on to include Rust, Haskell, Go, C, C++, LISP and of course, the mandatory assembly language of any microprocessor. 
 
-
 This would remain a mere curiosity in the relatively short history of computer programming had it not been formalized theoretically and found more useful applications. 
+
+Dijkstra's 1961 paper describing the inverse shunting yard algortihm, as part of the ALGOL project, can be seen as the common ancestor of all programming language design. The inverse process, transforming Reverse Polish Notation (RPN) expressions into a host programming language, can be called the "inverse shunting yard algorithm" (ISYA). We believe ours is a novel attempt to describe ISYA formally, although implementations on individual programming language have existed independently, but most, if not all, have not been developed beyond the point of demonstrating how Forth can be implemented in a host programming language.
 
 Formalized as inverse shunting yard algorithm
 
