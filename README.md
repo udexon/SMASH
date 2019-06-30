@@ -77,9 +77,17 @@ Programmers who are API users will only need to understand SMASH/FRPN in order t
 Our proprosal for SMASH/FRPN does not require universal approval from all API developers.
 A SMASH/FRPN interface to any API will typically take a week for a programmer working on part time to complete, as demonstrated with our JavaScript and PHP SMASH demo.
 
-http://localhost/gltf_2019/g_rpn.html
+Next, we use an ongoing project of ours to illustrate how SMASH/FRPN may offer a more concise solution (in terms of line of code) to Godot or similar game engine:
 
-Use mouse left (primary) button to select any two objects. Open JavaScript Console. Copy and paste the following commands:
+http://5gl.epizy.com/gltf_2019/g_rpn.html
+
+This web page is taken from a three.js tutorial. Modification has been made such that, you follow the instructions below, one of the selected object will start moving:
+
+- Use mouse left (primary) button to select any two objects. 
+
+- Open JavaScript Console. 
+
+- Copy and paste the following commands:
 
 ```
 ga_init(ga)
