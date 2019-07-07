@@ -25,7 +25,7 @@ At this point, some readers might dismiss this as overly ambitious. However, as 
 
 Nevertheless, as the fragmenting programming tools disinetegrate the programmer communities, few programmers would find time to work on extra curricular projects, as they would spend too much time "fire fighting" -- learning and coping with differences of programming tools and platforms -- which is showing no signs of diminishing.
 
-The following are fragments of SMASH/FRPN code for expanding expressions `(a + b)*(c + d)` and `(a + b)*c`, also written in RPN:
+The following are fragments of SMASH/FRPN code for expanding expressions `(a + b)*(c + d)` and `(a + b)*c`, also written in RPN. You may copy and paste them in the JavaScript browser console for testing:
 
 
 ```
